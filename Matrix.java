@@ -1,4 +1,4 @@
-package linearalgebra;
+package Orthogonal.io;
 
 import java.util.Scanner;
 
