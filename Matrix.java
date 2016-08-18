@@ -1,4 +1,4 @@
-package Orthogonal.io;
+package orthogonal.io;
 
 import java.util.Scanner;
 
