@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * 
  * 
- * @author lightshows
+ * @author Trevor Novak
  * @version v0.0.1
  *
  */
