@@ -1,5 +1,5 @@
 # Orthogonal.io
-@author Trevor Novak
+Author: Trevor Novak
 
 Linear Algebra and Graph Theory Library
 
