@@ -1,4 +1,4 @@
-package orthogonal;
+package orthonormal;
 
 import java.util.Scanner;
 
