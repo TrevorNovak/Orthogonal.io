@@ -2,8 +2,10 @@ package linearalgebra;
 
 import java.util.Scanner;
 
-/**
+/** This class defines a matrix object and implements the Operations interface. 
  * 
+ *  The code is in a very experimental phase. Once I am satisfied with the organization and hierarchy,
+ *  I will provide better variable names and better comments/documentation.
  * 
  * @author Trevor Novak
  * @version v0.0.1
